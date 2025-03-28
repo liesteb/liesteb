@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>🔭 I’m working as a Software Manager.<br><br>📚 I'm currently learning Java.<br><br>⚡ In my free time, I test AIs.</p>
+<p align="left"><br><br>🔭 I’m working as a Software Manager.<br><br>📚 I'm currently learning Java.<br><br>⚡ In my free time, I test AIs.</p>
 
 ###
 
